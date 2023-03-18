@@ -4,12 +4,21 @@
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: 
+Get the values from the user
 ### Step 2: 
+Assign values in a variable
 ### Step 3: 
+Get the value from the user for the number of rotation
+
 Substitute the values in the distance formula 
 ![formula](/formula.JPG)
 ### Step 4: 
-### Step 5: 
+Using the slicing concept rotate the list
+### Step 5:
+By using concatenation operator ,it will join the two values
+### Step 6:
+print the output
+
 ### PROGRAM:
 ```
 import math
@@ -24,3 +33,5 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
+Circulate the n variables using function is successfully executed.
+
