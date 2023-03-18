@@ -4,19 +4,15 @@
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: 
-Get the values from the user
+From the problem write the points in x axis separately
 ### Step 2: 
-Assign values in a variable
+From the problem write the points in y axis separately
 ### Step 3: 
-Get the value from the user for the number of rotation
-
 Substitute the values in the distance formula 
 ![formula](/formula.JPG)
 ### Step 4: 
-Using the slicing concept rotate the list
+By using square function in math module we can take square root
 ### Step 5:
-By using concatenation operator ,it will join the two values
-### Step 6:
 print the output
 
 ### PROGRAM:
@@ -33,5 +29,5 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
-Circulate the n variables using function is successfully executed.
+Thus the distance between two points is executed successfully.
 
