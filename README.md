@@ -17,7 +17,7 @@ print the output
 
 ### PROGRAM:
 ```
-#Program to circulate N values.
+##Program to find the distance between two points.
 #Developed by:S Vaishnav Nanda 
 #RegisterNumber:212222240112
 import math
