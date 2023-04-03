@@ -28,7 +28,7 @@ print("{:.2f}".format(distance))
 ```
 
 ### OUTPUT:
-![github logo](ex3.png)
+![github logo](dist.png)
 
 
 ### RESULT:
